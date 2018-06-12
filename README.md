@@ -4,17 +4,21 @@ Backup of UTUM files from RobCrypto2's repository
 Utum crypto
 
 UTUM setup files (updated by UTUM Community)
+
 Key links
+
 Setup instructions: <will provide later>
 Wallets: https://github.com/robcrypto2/Utum/tree/master/wallets
 Announcement: https://bitcointalk.org/index.php?topic=3471007.0
 Github: https://github.com/ShaneWWatson/UTUMBackup/
 Discord: https://discord.gg/VArqJWg
 Buy UTUM at Graviex: https://graviex.net/markets/utumbtc
+
 Linux VPS masternode setup script
 wget https://raw.githubusercontent.com/robcrypto2/Utum/master/masternode.sh 
 chmod 755 masternode.sh 
 ./masternode.sh
+
 Nodes to add to wallet.conf file
 From https://utum.ccore.online/connections
 
