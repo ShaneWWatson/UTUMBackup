@@ -1,27 +1,19 @@
 # UTUMBackup
 Backup of UTUM files from RobCrypto2's repository
 
-Utum crypto
-
-UTUM setup files (updated by UTUM Community)
-
 Key links
-
-Setup instructions: <will provide later>
-Wallets: https://github.com/robcrypto2/Utum/tree/master/wallets
-Announcement: https://bitcointalk.org/index.php?topic=3471007.0
-Github: https://github.com/ShaneWWatson/UTUMBackup/
-Discord: https://discord.gg/VArqJWg
-Buy UTUM at Graviex: https://graviex.net/markets/utumbtc
-
+* Setup instructions: [to be provided later]
+* Wallets: https://github.com/ShaneWWatson/UTUMBackup/tree/master/Wallets
+* Announcement: https://bitcointalk.org/index.php?topic=3471007.0
+* Github: https://github.com/ShaneWWatson/UTUMBackup
+* Discord: https://discord.gg/VArqJWg
+* Buy UTUM at Graviex: https://graviex.net/markets/utumbtc
 Linux VPS masternode setup script
 wget https://raw.githubusercontent.com/robcrypto2/Utum/master/masternode.sh 
 chmod 755 masternode.sh 
 ./masternode.sh
-
 Nodes to add to wallet.conf file
-From https://utum.ccore.online/connections
-
+From https://utum.ccore.online/connections
 addnode=199.247.30.12:17121
 addnode=185.212.225.172:17121
 addnode=167.99.157.162:17121
@@ -38,9 +30,7 @@ addnode=213.136.77.231:17121
 addnode=149.28.201.91:17121
 addnode=45.76.250.205:17121
 addnode=45.77.150.7:17121
-
 Coin Info
-
 Coin name: UTUM
 Coin ticker: UTUM
 Algorithm: QUARK
@@ -66,3 +56,4 @@ Block height		Reward
 42001 - 100000		100
 100001 - 160000		80
 >160001			60
+
