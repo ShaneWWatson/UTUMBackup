@@ -2,18 +2,21 @@
 Backup of UTUM files from RobCrypto2's repository
 
 Key links
-* Setup instructions: [to be provided later]
-* Wallets: https://github.com/ShaneWWatson/UTUMBackup/tree/master/Wallets
-* Announcement: https://bitcointalk.org/index.php?topic=3471007.0
-* Github: https://github.com/ShaneWWatson/UTUMBackup
-* Discord: https://discord.gg/VArqJWg
-* Buy UTUM at Graviex: https://graviex.net/markets/utumbtc
-Linux VPS masternode setup script
+* Setup instructions:Â [to be provided later]
+* Wallets:Â https://github.com/ShaneWWatson/UTUMBackup/tree/master/Wallets
+* Announcement:Â https://bitcointalk.org/index.php?topic=3471007.0
+* Github:Â https://github.com/ShaneWWatson/UTUMBackup
+* Discord:Â https://discord.gg/VArqJWg
+* Buy UTUM at Graviex:Â https://graviex.net/markets/utumbtc
+
+Linux VPS masternode setup script:
 wget https://raw.githubusercontent.com/robcrypto2/Utum/master/masternode.sh 
 chmod 755 masternode.sh 
 ./masternode.sh
+
 Nodes to add to wallet.conf file
-From https://utum.ccore.online/connections
+FromÂ https://utum.ccore.online/connections
+
 addnode=199.247.30.12:17121
 addnode=185.212.225.172:17121
 addnode=167.99.157.162:17121
